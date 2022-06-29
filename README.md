@@ -10,4 +10,6 @@ Machine Learning Contents:
                  - Data Evaluation
                  - Model Evaluation
                  - Model Prediction
-                
+              
+Each Project has different datasets
+You can get there datasets from Kaggle
