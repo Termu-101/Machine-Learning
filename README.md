@@ -11,5 +11,5 @@ Machine Learning Contents:
                  - Model Evaluation
                  - Model Prediction
               
-Each Project has different datasets
+Each Project has different dataset
 You can get there datasets from Kaggle
